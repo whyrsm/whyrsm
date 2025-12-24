@@ -10,9 +10,9 @@
 
 I'm a product manager who codes.
 
-I learned programming because I wanted to truly understand what I was asking engineers to build. With AI coding assistants, I now build production systems myself — ERPs, admission platforms, WhatsApp bots, BI dashboards.
+I learned programming because I wanted to truly understand what I was asking engineers to build. With AI coding assistants, I now build production systems myself: ERPs, admission platforms, WhatsApp bots, BI dashboards.
 
-This shapes how I approach product. I understand tradeoffs, I know what's feasible, and I can move from idea to working software quickly.
+This changes everything about how I approach product. I don't just understand tradeoffs. I make them. I don't ask what's feasible, I know. And when I see an opportunity, I can go from idea to working software in days, not months.
 
 ---
 
