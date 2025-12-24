@@ -1,6 +1,6 @@
 # Wahyu Rismawan
 
-**Product Manager who builds**
+**Product Manager**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wahyurismawan-blue)](https://linkedin.com/in/wahyurismawan)
 [![Medium](https://img.shields.io/badge/Medium-whyrsm-black)](https://whyrsm.medium.com)
@@ -32,9 +32,10 @@ And no, it's not vibe coding. At least at this scale and stage, I think about ar
 
 ## Stack
 
-NestJS, Next.js, Express.js, PostgreSQL. Railway for infra, I'd rather solve problems than configure CI/CD.
 
-AI coding with Cursor, Kiro, Claude Code. Favorite Models: Sonnet 4, Opus 4, Gemini 2.5 Pro.
+NestJS, Next.js, Express.js, PostgreSQL. Railway for infra. I'd rather solve problems than configure CI/CD.
+
+AI coding with Cursor, Kiro, Claude Code. Favorite LLM: Sonnet 4, Opus 4, Gemini 3.
 
 n8n and WAHA for WhatsApp bots and automation.
 
@@ -58,7 +59,7 @@ Most of my career has been in fintech and education.
 - Built internal systems that saved $500K/year in licensing costs
 - Reduced cloud infrastructure costs by 80%
 - Led a team to ISO27001 certification
-- Company Recognition Award at eFishery (Q1 2024)
+- Tech Ninja - Company Recognition Award at eFishery (Q1 2024)
 
 ---
 
