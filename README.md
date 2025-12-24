@@ -33,9 +33,11 @@ And no, it's not vibe coding. At least at this scale and stage, I think about ar
 
 NestJS, Next.js, Express.js, PostgreSQL. Railway for infra. I'd rather solve problems than configure CI/CD.
 
-AI coding with Cursor, Kiro, Claude Code. Favorite LLM: Sonnet 4, Opus 4, Gemini 3.
+AI coding with Cursor, Kiro, Antigravity, Claude Code, juggling tools for cost efficiency 😁 
 
-n8n and WAHA for WhatsApp bots and automation.
+My favorite LLM: Sonnet 4, Opus 4, Gemini 3. At least for now.
+
+I also use n8n and WAHA for WhatsApp bots and automation work.
 
 ---
 
