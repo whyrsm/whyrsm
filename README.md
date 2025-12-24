@@ -26,6 +26,8 @@ In the last 6 months, I've shipped 4 production systems:
 
 This is what AI coding agents unlock for product people. I'm not writing every line — I'm solving problems faster than ever. Talk to users, build, ship, measure, repeat.
 
+And no, it's not vibe coding. At least at this scale and stage, I think about architecture, write maintainable code, and build systems that can be handed off to real engineering teams. AI accelerates the work, but the technical decisions are mine.
+
 ---
 
 ## Background
