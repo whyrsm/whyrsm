@@ -42,24 +42,21 @@ Most of my career has been in fintech and education.
 
 ## Current roles
 
-**Kav & Co** — Co-founder. We help businesses make smart technology decisions and build systems that work.
+**Kav & Co** — Solo venture during my sabbatical. Helping businesses make smart technology decisions and build systems that actually work.
 
-**Kobi Education** — Product & tech consultant. Helping the team shift from shipping features to delivering outcomes.
+**Kobi Education** — Product & Tech consultant. Helping the team shift from shipping features to delivering outcomes.
 
-**ITAF Global Islamic School** — Co-founder. Preparing Indonesian students for universities in the Middle East.
+**ITAF Global Islamic School** — Co-founder since 2020. Preparing Indonesian students for universities in the Middle East. Bringing product thinking to education.
 
 ---
 
-## Things I've built
+## Stack
 
-Solo projects using AI coding assistants:
+NestJS, Next.js, Express.js, PostgreSQL. Railway for infra, I'd rather solve problems than configure CI/CD.
 
-- **BelajarShafa** — Mentoring management platform for Indonesian organizations
-- **Boogie ERP** — Garment manufacturing system, quotation to delivery
-- **Permai ERP** — Wholesale distribution for baby products
-- **Abata PMB** — Student enrollment system for schools
+AI coding with Cursor, Kiro, Claude Code. Favorite Models: Sonnet 4, Opus 4, Gemini 2.5 Pro.
 
-Stack: NestJS, Next.js, PostgreSQL, Railway, n8n, WAHA.
+n8n and WAHA for WhatsApp bots and automation.
 
 ---
 
@@ -72,12 +69,6 @@ Stack: NestJS, Next.js, PostgreSQL, Railway, n8n, WAHA.
 **Technical** — I read code, write code, and have real technical conversations. It makes collaboration with engineers smoother.
 
 **Education** — Teaching and mentoring are part of how I work. Co-founding a school deepened this.
-
----
-
-## Tools
-
-Cursor, Kiro, Claude (Sonnet 4.5, Opus 4.5), Gemini 3 for AI-assisted development. n8n and WAHA for automation.
 
 ---
 
