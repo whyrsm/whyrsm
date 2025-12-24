@@ -28,7 +28,7 @@ And no, it's not vibe coding. At least at this scale and stage, I think about ar
 
 ---
 
-## Stack
+## Favorite Stack
 
 
 NestJS, Next.js, Express.js, PostgreSQL. Railway for infra. I'd rather solve problems than configure CI/CD.
@@ -41,7 +41,7 @@ I also use n8n and WAHA for WhatsApp bots and automation work.
 
 ---
 
-## Current roles
+## Current Roles
 
 **[Kav & Co](https://kav.co.id)** - Solo venture during my sabbatical, still gotta pay the bills 😁. Helping businesses make smart technology decisions and build systems that actually work.
 
@@ -67,6 +67,6 @@ Most of my career has been in fintech and education.
 
 Open to conversations about product, technology, education, or building with AI.
 
-**whyrsm** — "Why" + my initials. I ask why before building the way. I write on [Medium](https://whyrsm.medium.com).
+**whyrsm** I ask why before building the way. I write on [Medium](https://whyrsm.medium.com).
 
 wahyurismawan@gmail.com
