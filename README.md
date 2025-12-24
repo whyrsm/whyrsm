@@ -1,4 +1,4 @@
-# Wahyu Rismawan / Product Manager
+# Wahyu Rismawan / Product Manager / Building with AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wahyurismawan-blue)](https://linkedin.com/in/wahyurismawan)
 [![Medium](https://img.shields.io/badge/Medium-whyrsm.medium.com-black)](https://whyrsm.medium.com)
