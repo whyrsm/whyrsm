@@ -43,11 +43,11 @@ I also use n8n and WAHA for WhatsApp bots and automation work.
 
 ## Current roles
 
-**[Kav & Co](https://kav.co.id)** — Solo venture during my sabbatical. Helping businesses make smart technology decisions and build systems that actually work.
+**[Kav & Co](https://kav.co.id)** - Solo venture during my sabbatical, still gotta pay the bills 😁. Helping businesses make smart technology decisions and build systems that actually work.
 
-**[Kobi Education](https://kobieducation.com)** — Product & Tech consultant. Aligning technology initiatives with business outcomes, helping the team shift from shipping features to delivering results.
+**[Kobi Education](https://kobieducation.com)** - Product & Tech consultant. Aligning technology initiatives with business outcomes, helping the team shift from shipping features to delivering results.
 
-**[ITAF Global Islamic School](https://instagram.com/itaf.id)** — Co-founder since 2019 (side project). Preparing Indonesian students for universities in the Middle East.
+**[ITAF Global Islamic School](https://instagram.com/itaf.id)** - Co-founder since 2019 (side project). Preparing Indonesian students for universities in the Middle East.
 
 ---
 
