@@ -1,88 +1,93 @@
 # Wahyu Rismawan
 
-**whyrsm** • *asking why, build the way*
+**Technical Product Leader | Building Systems That Scale**
 
-Technical Product Leader | Educator | Technology Consultant
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wahyurismawan-blue)](https://linkedin.com/in/wahyurismawan)
+[![Email](https://img.shields.io/badge/Email-wahyurismawan%40gmail.com-red)](mailto:wahyurismawan@gmail.com)
 
-Scaling fintech and education platforms through strategic product thinking and hands-on technical execution. 8+ years building 0-to-1 products that serve 400K+ users while maintaining profitability and compliance.
+## About Me
 
-## 🎯 What I Build
+I build products and systems at the intersection of technology and business impact. My work spans from launching fintech platforms serving 400K+ customers to architecting custom ERPs that reduce operational costs by 40-80%.
+
+**Current Focus:**
+- Co-Founder at **Kav & Co** - Technology enablement partner helping businesses achieve impact through strategic technology adoption
+- Product & Technology Consultant at **Kobi Education** - Shifting organizations from feature-factory to outcome-driven product culture
+- Principal at **ITAF Global Islamic School** - Preparing students for Middle Eastern Islamic universities
+
+## What I Do
 
 **Product Leadership**
-- Launched lending products from scratch serving 400K+ customers (LinkAja, eFishery)
-- 150% increase in loan processing productivity through automated origination systems
-- $500K+ annual cost savings via strategic build-vs-buy decisions and infrastructure optimization
+- 0-to-1 product launches in fintech and education sectors
+- Outcome-driven product strategy over feature delivery
+- Cross-functional team leadership (engineering, ops, business)
 
-**Technology Consulting @ Kav & Co**
-- Custom ERP systems reducing operational costs 40-80% for retail/education clients
-- End-to-end solutions: discovery → architecture → implementation → adoption
-- AI/automation implementation (n8n, WAHA, WhatsApp bots)
+**Technical Architecture**
+- Full-stack development: Laravel, Node.js, NestJS, Next.js
+- System design for scalability and compliance
+- Build-vs-buy decisions for infrastructure components
+- Cost optimization (saved $500K+ in licensing, 80% reduction in cloud costs)
 
-**Education & Thought Leadership**
-- Principal @ ITAF Global Islamic School - Leadership curriculum (Drucker principles)
-- [Building a Legacy](link) - Product thinking, AI literacy, systems design
-- Bridging technical complexity with business impact for non-technical stakeholders
+**AI & Automation**
+- WhatsApp bot development using n8n and WAHA
+- AI-powered workflow automation
+- RAG implementations and strategic thinking assistants
 
-## 🛠 Technical Foundation
+## Tech Stack
 
-**Product:** 0-to-1 launches, roadmap strategy, stakeholder management, metrics-driven culture  
-**Engineering:** Python, PHP/Laravel, Node.js, NestJS, Next.js  
-**Infrastructure:** AWS/GCP, Docker, PostgreSQL/MySQL, API design, system architecture  
-**Compliance:** OJK P2P Lending License, ISO27001, fintech regulatory navigation  
-**Current Stack:** Railway, Cloudflare R2, Cursor Pro+, Turborepo
+**Languages & Frameworks:** PHP/Laravel, Node.js, NestJS, Next.js, Python  
+**Databases:** MySQL, PostgreSQL  
+**Infrastructure:** AWS, Railway
+**AI Coding Assistants:** Cursor, Antigravity, Kiro  
+**Automation Tools:** n8n, WAHA (WhatsApp notifications)  
 
-*Technical fluency enables effective trade-off discussions between ideal solutions and pragmatic delivery.*
+## Recent Projects
+
+As a solo product-software engineer leveraging AI coding assistants:
+
+**BelajafShafa** - Mentoring Management System  
+Indonesian-language mentoring platform enabling organizations to manage mentoring programs with class management, LMS features, global communication, and mentee progress tracking.
+
+**Boogie ERP** - Garment Manufacturing System  
+Internal ERP for Boogie Apparel streamlining end-to-end workflow from customer quotations to production delivery for garment manufacturing operations.
+
+**Permai ERP** - Wholesale Distribution System  
+Internal ERP for wholesale distributor of baby and children's products, managing supply chain operations to retail outlets across Indonesia.
+
+**Abata PMB System** - Student Enrollment Platform  
+Full-stack registration and enrollment management system for Abata/LKBW educational institutions (KB, TK, SD, SMP levels).
+
+*Stack: NestJS/Next.js, PostgreSQL, Railway, n8n automation, WAHA for WhatsApp notifications*
+
+## Track Record
+
+- 🚀 Launched 3 B2B fintech products serving 400K+ customers
+- 📈 150% productivity increase through workflow automation
+- ⚡ 60% reduction in processing time via API integrations
+- 💰 $500K annual savings from in-house system development
+- ☁️ 80% reduction in cloud infrastructure costs
+- 🏆 Company Recognition Award (Q1 2024) at eFishery
+- 📜 Led organization to ISO27001 certification and regulatory licensing
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=whyrsm&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whyrsm&layout=compact)
 
-## 🚀 Impact Highlights
+## Philosophy
 
-**eFishery (Senior PM)**
-- Built Loan Origination System from scratch → 150% productivity increase
-- Credit Bureau API integration → 60% faster approvals, 95%+ user satisfaction
-- Company Recognition Award Q1 2024
+**whyrsm: asking why, build the way**
 
-**LinkAja (Head of Product & Tech - Lending)**
-- Launched 3 B2B lending products for 400K+ ecosystem (Telkomsel, Semen Indonesia, Pertamina)
-- In-house core lending system → $500K annual savings vs. enterprise alternatives
-- 80% cloud cost reduction through strategic re-architecture
+I approach problems by understanding the "why" before building the "way." This means:
+- Challenging assumptions and clarifying ambiguities
+- Optimizing for business outcomes over feature output
+- Building systems that solve real problems, not perceived ones
+- Teaching teams to think in outcomes, not outputs
 
-**iGrow (Sr. PM)**
-- Led organization to OJK P2P Lending License and ISO27001 certification
-- Managed Product & Tech due diligence during LinkAja acquisition
-- Shipped eKYC, digital signature, end-to-end payment automation
+## Let's Connect
 
-**Yaumi Indonesia (Co-Founder & CEO)**
-- 0 → 100K+ app users in faith-based edtech
-- Validated product-market fit through rapid iteration under resource constraints
-
-## 💡 Product Philosophy
-
-I shift organizations from feature factories to outcome-driven cultures. Success isn't measured by shipped features—it's measured by user outcomes and business KPIs. Whether building fintech platforms for aquaculture farmers or ERP systems for education clients, the approach remains: understand the problem deeply, architect pragmatically, deliver measurably.
-
-**From my work:**
-- Translated regulatory compliance into scalable technical architecture (OJK licensing)
-- Bridged non-technical stakeholders and engineering teams in complex enterprise environments
-- Made critical build-vs-buy decisions that saved $500K+ while maintaining product velocity
-- Built systems that balance ideal solutions with pragmatic delivery timelines
-
-## 🎓 Background
-
-**Education:** B.S. Informatics Engineering (Telkom University) | Founder Institute  
-**Certifications:** SQL Advanced, Risk Management P2P Lending, Software Architecture, Certified Performance Coach
-
-Currently preparing for Master's studies in Australia while scaling Kav & Co and education initiatives.
-
-## 📫 Connect
-
-- **Email:** wahyurismawan@gmail.com
-- **LinkedIn:** [Your LinkedIn](link)
-- **Blog:** [Building a Legacy](link)
-- **Twitter/X:** [link]
-
----
-
-*Open to: Senior Product/Tech Leadership roles | Strategic consulting engagements | Speaking on product-engineering collaboration*
+Open to conversations about:
+- Product strategy and execution
+- Technical architecture decisions
+- AI/automation implementation
+- Education technology
+- Building outcome-driven teams
