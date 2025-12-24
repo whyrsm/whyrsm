@@ -1,7 +1,7 @@
 # Wahyu Rismawan / Product Manager
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wahyurismawan-blue)](https://linkedin.com/in/wahyurismawan)
-[![Medium](https://img.shields.io/badge/Medium-whyrsm-black)](https://whyrsm.medium.com)
+[![Medium](https://img.shields.io/badge/Medium-whyrsm.medium.com-black)](https://whyrsm.medium.com)
 [![Email](https://img.shields.io/badge/Email-wahyurismawan%40gmail.com-red)](mailto:wahyurismawan@gmail.com)
 
 ---
