@@ -8,76 +8,77 @@
 
 ---
 
-I'm a product manager who happens to code.
+I'm a product manager who codes.
 
-I started picking up programming because I wanted to understand what I was asking engineers to build. Over time, with help from AI coding assistants, I found myself building small systems on my own — internal tools, ERPs, bots. Nothing fancy, boring problem, but useful.
+I learned programming because I wanted to truly understand what I was asking engineers to build. With AI coding assistants, I now build production systems myself — ERPs, admission platforms, WhatsApp bots, BI dashboards.
 
-It's changed how I think about product. I'm more careful about what I ask for, more aware of tradeoffs.
+This shapes how I approach product. I understand tradeoffs, I know what's feasible, and I can move from idea to working software quickly.
 
 ---
 
 ## Background
 
-I've spent most of my career in fintech and education. Along the way, I've been fortunate to:
+Most of my career has been in fintech and education.
 
-- Work on products that reached 400K+ customers
-- Help teams save on costs through better tooling decisions
-- Lead a team through ISO27001 certification
-- Learn from a lot of smart people
+- Launched 3 B2B fintech products serving 400K+ customers
+- Built internal systems that saved $500K/year in licensing costs
+- Reduced cloud infrastructure costs by 80%
+- Led a team to ISO27001 certification
+- Company Recognition Award at eFishery (Q1 2024)
 
 ---
 
 ## Current roles
 
-**Kav & Co** — A small company I co-founded. We help businesses think through their tech decisions and sometimes build things for them.
+**Kav & Co** — Co-founder. We help businesses make smart technology decisions and build systems that work.
 
-**Kobi Education** — I consult on product and technology. Mostly trying to help the team focus on what matters.
+**Kobi Education** — Product & tech consultant. Helping the team shift from shipping features to delivering outcomes.
 
-**ITAF Global Islamic School** — Co-founded with friends. We prepare students for universities in the Middle East.
-
----
-
-## Side projects
-
-I've built a few systems on my own using AI assistants — nothing groundbreaking, but they solve real problems:
-
-- **BelajarShafa** — A mentoring platform for Indonesian organizations
-- **Boogie ERP** — Internal system for a garment manufacturer
-- **Permai ERP** — Distribution management for a wholesale company
-- **Abata PMB** — Enrollment system for schools
-
-I usually work with NestJS, Next.js, and PostgreSQL. n8n for automation.
+**ITAF Global Islamic School** — Co-founder. Preparing Indonesian students for universities in the Middle East.
 
 ---
 
-## How I try to work
+## Things I've built
 
-**Product** — I care about solving the right problems. Features are easy to ship, outcomes are harder.
+Solo projects using AI coding assistants:
 
-**Leadership** — I've led teams before. Still learning how to do it well.
+- **BelajarShafa** — Mentoring management platform for Indonesian organizations
+- **Boogie ERP** — Garment manufacturing system, quotation to delivery
+- **Permai ERP** — Wholesale distribution for baby products
+- **Abata PMB** — Student enrollment system for schools
 
-**Technical** — I can read and write code. It helps me have better conversations with engineers.
-
-**Education** — I like teaching and mentoring when I can. Co-founding a school taught me a lot about learning itself.
+Stack: NestJS, Next.js, PostgreSQL, Railway, n8n, WAHA.
 
 ---
 
-## Tools I use
+## How I work
 
-Cursor, Kiro, Claude, Gemini for coding assistance. n8n and WAHA for automation.
+**Product** — I focus on outcomes, not output. Shipping features is easy; solving the right problem is the hard part.
+
+**Leadership** — I've led cross-functional teams and built product culture in organizations. I believe in coaching over directing.
+
+**Technical** — I read code, write code, and have real technical conversations. It makes collaboration with engineers smoother.
+
+**Education** — Teaching and mentoring are part of how I work. Co-founding a school deepened this.
+
+---
+
+## Tools
+
+Cursor, Kiro, Claude (Sonnet 4.5, Opus 4.5), Gemini 3 for AI-assisted development. n8n and WAHA for automation.
 
 ---
 
 ## whyrsm
 
-"Why" + my initials. A reminder to ask why before jumping to solutions.
+"Why" + my initials. I ask why before building the way.
 
-I write occasionally on [Medium](https://whyrsm.medium.com).
+I write on [Medium](https://whyrsm.medium.com).
 
 ---
 
-## Say hi
+## Get in touch
 
-Happy to chat about product, technology, education, or anything else.
+Open to conversations about product, technology, education, or building with AI.
 
 wahyurismawan@gmail.com
