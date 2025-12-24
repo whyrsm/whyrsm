@@ -1,6 +1,6 @@
 # Wahyu Rismawan
 
-**Product Manager with technical background**
+**Product Manager who builds**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wahyurismawan-blue)](https://linkedin.com/in/wahyurismawan)
 [![Medium](https://img.shields.io/badge/Medium-whyrsm-black)](https://whyrsm.medium.com)
@@ -10,9 +10,21 @@
 
 I'm a product manager who codes.
 
-I do programming because I wanted to truly understand what I was asking engineers to build. With AI coding assistants, I now build production systems myself: ERPs, admission platforms, WhatsApp bots, BI dashboards.
+I've always coded on the side — grinding HackerRank, contributing to open source, messing with SQL to escape PRDs. But the last time I shipped something commercial? Laravel 7, Bootstrap 4. That was 2020.
 
-This changes everything about how I approach product. I don't just understand tradeoffs. I make them. I don't ask what's feasible, I know. And when I see an opportunity, I can go from idea to working software in days, not months.
+Then I discovered AI coding assistants. Complete 180.
+
+In the last 6 months, I've shipped 4 production systems:
+
+- A garment manufacturer coordinating through spreadsheets, WhatsApp, and chaos — now has structured workflows where everyone sees the same truth.
+
+- A wholesale distributor blind to their own business — now has POS and accounting synced into one dashboard. Stock levels, branch performance, all visible.
+
+- A school running enrollment through paper, phone calls, and manual follow-ups — now has registration, assessment, payment, and notifications in one integrated system.
+
+- A mentoring organization scaling without structure — now has a full LMS with attendance, courses, and mentor notes.
+
+This is what AI coding agents unlock for product people. I'm not writing every line — I'm solving problems faster than ever. Talk to users, build, ship, measure, repeat.
 
 ---
 
