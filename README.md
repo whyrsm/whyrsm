@@ -1,6 +1,4 @@
-# Wahyu Rismawan
-
-**Product Manager**
+# Wahyu Rismawan / Product Manager
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wahyurismawan-blue)](https://linkedin.com/in/wahyurismawan)
 [![Medium](https://img.shields.io/badge/Medium-whyrsm-black)](https://whyrsm.medium.com)
@@ -10,13 +8,13 @@
 
 I'm a product manager who codes.
 
-I've always coded on the side. Grinding HackerRank (before AI coding agent hype), contributing to systems for social projects, messing with SQL to escape PRDs. But the last time I shipped something commercial by myself? Laravel 7, Bootstrap 4. That was 2020 😅
+I've always coded on the side. Grinding HackerRank (before AI coding agent hype), contributing to systems for social projects, messing with SQL to escape PRDs. But the last time I shipped something commercial by myself? It was Laravel 7 & Bootstrap 4. That was 2020 😅
 
 Then I discovered AI coding assistants in mid 2025. Complete 180.
 
-In the last 6 months, I've shipped 4 production systems through [Kav & Co](https://kav.co.id). Boring problems, not fancy, but useful. Helping real businesses work better:
+In the last 6 months, I've shipped 4 production systems through [Kav & Co](https://kav.co.id) (my solo venture). Boring problems, not fancy, but useful. Helping real businesses work better:
 
-- A garment manufacturer coordinating through spreadsheets, WhatsApp, and chaos. Now has structured workflows where everyone sees the same truth.
+- A garment manufacturer coordinating through spreadsheets, WhatsApp, and chaos. Now has structured workflows where everyone sees the same truth. 
 
 - A wholesale distributor blind to their own business. Now has POS and accounting synced into one dashboard. Stock levels, branch performance, all visible.
 
