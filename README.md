@@ -35,7 +35,7 @@ NestJS, Next.js, Express.js, PostgreSQL. Railway for infra. I'd rather solve pro
 
 AI coding with Cursor, Kiro, Antigravity, Claude Code, juggling tools for cost efficiency 😁 
 
-My favorite LLM: Sonnet 4, Opus 4, Gemini 3. At least for now.
+My favorite LLM: Sonnet 4.5, Opus 4.5, Gemini 3. At least for now.
 
 I also use n8n and WAHA for WhatsApp bots and automation work.
 
