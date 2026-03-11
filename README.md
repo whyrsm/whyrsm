@@ -10,7 +10,7 @@ I'm a product manager who codes.
 
 I've always coded on the side. Grinding HackerRank (before AI coding agent hype), contributing to systems for social projects, messing with SQL to escape PRDs. But the last time I shipped something commercial by myself? It was Laravel 7 & Bootstrap 4. That was 2020 😅
 
-Then I discovered AI coding assistants in mid 2025. Complete 180.
+Then I discovered AI coding assistants in mid 2025. 
 
 In the last 6 months, I've shipped 4 production systems through [Kav & Co](https://kav.co.id) (my solo venture). Boring problems, not fancy, but useful. Helping real businesses work better:
 
