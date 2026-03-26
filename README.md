@@ -10,41 +10,32 @@ Engineer turned product leader, now back building full-time.
 
 I started as a full-stack developer, spent 5 years leading product and engineering teams in fintech, and recently came back to hands-on engineering. The trigger? AI coding agents changed everything about what a single builder can ship.
 
-In the last 6 months, I've built and shipped 4 production systems through [Kav & Co](https://kav.co.id). Next.js, Express, Bun, PostgreSQL, n8n. Real businesses, real problems:
+In the last 6 months, I've built and shipped 4 production systems through my solo agency [Kav & Co](https://kav.co.id). Next.js, Express, Bun, PostgreSQL, n8n. Real businesses, real problems:
 
-- **Custom ERP for a garment manufacturer** - replaced spreadsheet chaos with structured workflows. Everyone sees the same truth now.
+- **Garment Manufacturing ERP** - used by **80 staff** across sales, marketing, production, and purchasing to manage hundreds of projects simultaneously. Replaced spreadsheet chaos with unified order tracking and automated accounting sync.
 
-- **POS + accounting dashboard for a wholesale distributor** - synced sales, stock levels, and branch performance into one system.
+- **LMS & Mentoring Platform** - serving **1,300 users** across multiple regions in Indonesia. Assessment engine, course management, attendance tracking. Built to scale without adding headcount.
 
-- **Enrollment system for a school** - registration, assessment, payment, and notifications. End-to-end, replacing paper and phone calls.
+- **Education Management Platform** - core operational system used daily by academic, operations, and HR teams to run the business. Consolidated paper attendance, spreadsheet scheduling, and siloed records into one platform.
 
-- **LMS for a mentoring organisation** - attendance, courses, and mentor notes. Built to scale without adding headcount.
+- **Student Enrollment System** - primary admissions tool for staff and a parent-facing portal for prospective students. End-to-end pipeline from registration to enrollment, with WhatsApp notifications and automated PDF generation.
 
-These aren't side projects. They're deployed, used daily, and reduced operational costs over 40% for clients.
+These aren't side projects. They're deployed, used daily, and reduced operational costs over 40% for clients. More details on the [portfolio](https://kav.co.id/portfolio).
 
 I think about architecture, write maintainable code, and build systems that can be handed off to engineering teams. AI accelerates the work, but the technical decisions are mine.
 
 ---
 
-## Stack
+## Favorite Stack
 
-**Languages:** TypeScript, JavaScript, Python, PHP/Laravel
 
-**Frameworks:** Next.js, Express, Bun, Vite, VueJS
+NestJS, Next.js, Express.js, PostgreSQL. Railway for infra. I'd rather solve problems than configure CI/CD.
 
-**AI & Automation:** Claude Code (Sonnet/Opus), n8n workflow automation, AI agent development
+AI coding with Cursor, Kiro, Antigravity, Claude Code, juggling tools for cost efficiency 😁
 
-**Databases:** PostgreSQL, MySQL
+My favorite LLM: Sonnet 4.5, Opus 4.5, Gemini 3. At least for now.
 
-**Infra:** AWS, GCP, Docker, Railway
-
-I also use WAHA for WhatsApp bots and automation work.
-
----
-
-## Current Roles
-
-**[Kav & Co](https://kav.co.id)** - Building AI-powered products and automation systems for SMEs and education clients.
+I also use n8n and WAHA for WhatsApp bots and automation work.
 
 ---
 
