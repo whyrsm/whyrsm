@@ -1,4 +1,4 @@
-# Wahyu Rismawan / Product Manager / Building with AI
+# Wahyu Rismawan / Product Engineer / Building with AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wahyurismawan-blue)](https://linkedin.com/in/wahyurismawan)
 [![Medium](https://img.shields.io/badge/Medium-whyrsm.medium.com-black)](https://whyrsm.medium.com)
@@ -6,67 +6,67 @@
 
 ---
 
-I'm a product manager who codes.
+Engineer turned product leader, now back building full-time.
 
-I've always coded on the side. Grinding HackerRank (before AI coding agent hype), contributing to systems for social projects, messing with SQL to escape PRDs. But the last time I shipped something commercial by myself? It was Laravel 7 & Bootstrap 4. That was 2020 😅
+I started as a full-stack developer, spent 5 years leading product and engineering teams in fintech, and recently came back to hands-on engineering. The trigger? AI coding agents changed everything about what a single builder can ship.
 
-Then I discovered AI coding assistants in mid 2025. 
+In the last 6 months, I've built and shipped 4 production systems through [Kav & Co](https://kav.co.id). Next.js, Express, Bun, PostgreSQL, n8n. Real businesses, real problems:
 
-In the last 6 months, I've shipped 4 production systems through [Kav & Co](https://kav.co.id) (my solo venture). Boring problems, not fancy, but useful. Helping real businesses work better:
+- **Custom ERP for a garment manufacturer** - replaced spreadsheet chaos with structured workflows. Everyone sees the same truth now.
 
-- A garment manufacturer coordinating through spreadsheets, WhatsApp, and chaos. Now has structured workflows where everyone sees the same truth. 
+- **POS + accounting dashboard for a wholesale distributor** - synced sales, stock levels, and branch performance into one system.
 
-- A wholesale distributor blind to their own business. Now has POS and accounting synced into one dashboard. Stock levels, branch performance, all visible.
+- **Enrollment system for a school** - registration, assessment, payment, and notifications. End-to-end, replacing paper and phone calls.
 
-- A school running enrollment through paper, phone calls, and manual follow-ups. Now has registration, assessment, payment, and notifications in one integrated system.
+- **LMS for a mentoring organisation** - attendance, courses, and mentor notes. Built to scale without adding headcount.
 
-- A mentoring organization scaling without structure. Now has a full LMS with attendance, courses, and mentor notes.
+These aren't side projects. They're deployed, used daily, and reduced operational costs over 40% for clients.
 
-This is what AI coding agents unlock for product people. Talk to users, build, ship, measure, repeat.
-
-And no, it's not vibe coding. At least at this scale and stage, I think about architecture, write maintainable code, and build systems that can be handed off to real engineering teams. AI accelerates the work, but the technical decisions are mine.
+I think about architecture, write maintainable code, and build systems that can be handed off to engineering teams. AI accelerates the work, but the technical decisions are mine.
 
 ---
 
-## Favorite Stack
+## Stack
 
+**Languages:** TypeScript, JavaScript, Python, PHP/Laravel
 
-NestJS, Next.js, Express.js, PostgreSQL. Railway for infra. I'd rather solve problems than configure CI/CD.
+**Frameworks:** Next.js, Express, Bun, Vite, VueJS
 
-AI coding with Cursor, Kiro, Antigravity, Claude Code, juggling tools for cost efficiency 😁 
+**AI & Automation:** Claude Code (Sonnet/Opus), n8n workflow automation, AI agent development
 
-My favorite LLM: Sonnet 4.5, Opus 4.5, Gemini 3. At least for now.
+**Databases:** PostgreSQL, MySQL
 
-I also use n8n and WAHA for WhatsApp bots and automation work.
+**Infra:** AWS, GCP, Docker, Railway
+
+I also use WAHA for WhatsApp bots and automation work.
 
 ---
 
 ## Current Roles
 
-**[Kav & Co](https://kav.co.id)** - Solo venture during my sabbatical, still gotta pay the bills 😁. Helping businesses make smart technology decisions and build systems that actually work.
-
-**[Kobi Education](https://kobieducation.com)** - Product & Tech consultant. Aligning technology initiatives with business outcomes, helping the team shift from shipping features to delivering results.
-
-**[ITAF Global Islamic School](https://instagram.com/itaf.id)** - Co-founder since 2019 (side project). Preparing Indonesian students for universities in the Middle East.
+**[Kav & Co](https://kav.co.id)** - Building AI-powered products and automation systems for SMEs and education clients.
 
 ---
 
 ## Background
 
-Most of my career has been in fintech and education.
+5+ years in fintech across P2P lending, e-wallets, and agritech financing. Before that, full-stack dev at an agency. The highlights:
 
-- Launched 3 B2B fintech products serving 400K+ customers
-- Built internal systems that saved $500K/year in licensing costs
-- Reduced cloud infrastructure costs by 80%
-- Led a team to ISO27001 certification
-- Tech Ninja - Company Recognition Award at eFishery (Q1 2024)
+- Architected and launched **3 lending products from 0-to-1** at LinkAja (70M+ users), targeting **400K+ customers**
+- Built core lending infrastructure in-house, saving **$500K/year** vs enterprise licensing
+- Cut **80% of monthly cloud costs** through service optimisation and right-sizing
+- Built a **Loan Origination System from scratch** at eFishery, increasing team throughput **150%**
+- Led organisation to **ISO 27001 certification** and regulatory licensing
+- Grew an education app to **100K+ users** as co-founder and technical lead (Yaumi, 2017-2019)
+- **Company Recognition Award** at eFishery (Q1 2024)
+- **1st Place** - Google Startup Weekend Jakarta 2016
 
 ---
 
 ## Get in touch
 
-Open to conversations about product, technology, education, or building with AI.
+Open to conversations about product, engineering, or building with AI.
 
-**whyrsm** I ask why before building the way. I write on [Medium](https://whyrsm.medium.com).
+**whyrsm** - I ask why before building the way. I write on [Medium](https://whyrsm.medium.com).
 
 wahyurismawan@gmail.com
