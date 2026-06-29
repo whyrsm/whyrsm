@@ -10,10 +10,10 @@ I spent 5 years leading product and engineering teams in fintech, then went back
 
 Since early 2025, through my solo agency [Kav & Co](https://kav.co.id), I've shipped four of them. They're deployed, used daily, and have cut client operational costs by 40%+:
 
-- **Garment Manufacturing ERP** — 80 staff, hundreds of concurrent projects
-- **LMS & Mentoring Platform** — 1,300 users across Indonesia
-- **Education Management Platform** — daily ops for academic, operations, and HR teams
-- **Student Enrollment System** — end-to-end admissions, parent portal, WhatsApp + PDF automation
+- **Garment Manufacturing ERP**: 80 staff, hundreds of concurrent projects
+- **LMS & Mentoring Platform**: 1,300 users across Indonesia
+- **Education Management Platform**: daily ops for academic, operations, and HR teams
+- **Student Enrollment System**: end-to-end admissions, parent portal, WhatsApp + PDF automation
 
 AI accelerates the work; the architecture and the technical calls are mine. More on the [portfolio](https://kav.co.id/portfolio).
 
@@ -21,13 +21,14 @@ AI accelerates the work; the architecture and the technical calls are mine. More
 
 ## Building in public
 
-Where I test ideas outside client work, mostly a privacy- and local-first streak:
+Apps and tools I build and maintain outside client work:
 
-- **[telebox](https://github.com/whyrsm/telebox)** — privacy-focused cloud storage that uses Telegram as the backend · [live](https://telebox.kav.co.id)
-- **[MD-Resume](https://github.com/whyrsm/MD-Resume)** — write your resume in Markdown, preview it live in the browser · [live](https://md-resume.kav.co.id)
-- **[kasa](https://github.com/whyrsm/kasa)** — turns Indonesian bank-statement PDFs into structured transaction data, fully local
-- **[Uber Earnings Analytics](https://github.com/whyrsm/chrome-ext-uber-earning-analytic)** — Chrome extension that turns a driver's Uber earnings into trip-level analytics (distance, duration, fare breakdown, totals by type), with JSON/CSV export
-- **[kav-news](https://github.com/whyrsm/kav-news)** — a minimal HN-style news site, rewritten every morning by Claude Opus 4.8 via GitHub Actions
+- **[QuranPlus](https://quranplus-web.up.railway.app/)**: ad-free Quran app with Kemenag tafsir, murottal audio, and a habit tracker. Co-maintained with friends; 14k+ users across web, iOS, and Android
+- **[telebox](https://github.com/whyrsm/telebox)**: privacy-focused cloud storage that uses Telegram as the backend · [live](https://telebox.kav.co.id)
+- **[MD-Resume](https://github.com/whyrsm/MD-Resume)**: write your resume in Markdown, preview it live in the browser · [live](https://md-resume.kav.co.id)
+- **[kasa](https://github.com/whyrsm/kasa)**: turns Indonesian bank-statement PDFs into structured transaction data, fully local
+- **[Uber Earnings Analytics](https://github.com/whyrsm/chrome-ext-uber-earning-analytic)**: Chrome extension that turns a driver's Uber earnings into trip-level analytics (distance, duration, fare breakdown, totals by type), with JSON/CSV export
+- **[kav-news](https://github.com/whyrsm/kav-news)**: a minimal HN-style news site, rewritten every morning by Claude Opus 4.8 via GitHub Actions
 
 ---
 
@@ -50,6 +51,6 @@ Depends on the project, but my default full-stack is TypeScript, Bun, Hono, Reac
 
 Always open to a conversation about product, engineering, or building solo with AI, especially with others doing the same. No pitch, just reach out.
 
-**whyrsm** — I ask *why* before I build. I write on [Medium](https://whyrsm.medium.com).
+**whyrsm**: I ask *why* before I build. I write on [Medium](https://whyrsm.medium.com).
 
 wahyurismawan@gmail.com
