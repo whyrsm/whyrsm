@@ -6,58 +6,50 @@
 
 ---
 
-Engineer turned product leader, now back building full-time.
+I spent 5 years leading product and engineering teams in fintech, then went back to hands-on building when AI coding agents changed the math: one senior builder can now ship what used to take a team. That's what I do now — full-stack production systems, solo.
 
-I started as a full-stack developer, spent 5 years leading product and engineering teams in fintech, and recently came back to hands-on engineering. The trigger? AI coding agents changed everything about what a single builder can ship.
+Since early 2025, through my solo agency [Kav & Co](https://kav.co.id), I've shipped four of them — deployed, used daily, cutting client operational costs by 40%+:
 
-In the last 6 months, I've built and shipped 4 production systems through my solo agency [Kav & Co](https://kav.co.id). Next.js, Express, Bun, PostgreSQL, n8n. Real businesses, real problems:
+- **Garment Manufacturing ERP** — 80 staff, hundreds of concurrent projects
+- **LMS & Mentoring Platform** — 1,300 users across Indonesia
+- **Education Management Platform** — daily ops for academic, operations, and HR teams
+- **Student Enrollment System** — end-to-end admissions, parent portal, WhatsApp + PDF automation
 
-- **Garment Manufacturing ERP** - used by **80 staff** across sales, marketing, production, and purchasing to manage hundreds of projects simultaneously. Replaced spreadsheet chaos with unified order tracking and automated accounting sync.
-
-- **LMS & Mentoring Platform** - serving **1,300 users** across multiple regions in Indonesia. Assessment engine, course management, attendance tracking. Built to scale without adding headcount.
-
-- **Education Management Platform** - core operational system used daily by academic, operations, and HR teams to run the business. Consolidated paper attendance, spreadsheet scheduling, and siloed records into one platform.
-
-- **Student Enrollment System** - primary admissions tool for staff and a parent-facing portal for prospective students. End-to-end pipeline from registration to enrollment, with WhatsApp notifications and automated PDF generation.
-
-These aren't side projects. They're deployed, used daily, and reduced operational costs over 40% for clients. More details on the [portfolio](https://kav.co.id/portfolio).
-
-I think about architecture, write maintainable code, and build systems that can be handed off to engineering teams. AI accelerates the work, but the technical decisions are mine.
+AI accelerates the work; the architecture and the technical calls are mine. More on the [portfolio](https://kav.co.id/portfolio).
 
 ---
 
-## Favorite Stack
+## Building in public
 
+Where I test ideas outside client work — mostly a privacy- and local-first streak:
 
-NestJS, Next.js, Express.js, PostgreSQL. Railway for infra. I'd rather solve problems than configure CI/CD.
-
-AI coding with Cursor, Kiro, Antigravity, Claude Code, juggling tools for cost efficiency 😁
-
-My favorite LLM: Sonnet 4.5, Opus 4.5, Gemini 3. At least for now.
-
-I also use n8n and WAHA for WhatsApp bots and automation work.
-
----
-
-## Background
-
-5+ years in fintech across P2P lending, e-wallets, and agritech financing. Before that, full-stack dev at an agency. The highlights:
-
-- Architected and launched **3 lending products from 0-to-1** at LinkAja (70M+ users), targeting **400K+ customers**
-- Built core lending infrastructure in-house, saving **$500K/year** vs enterprise licensing
-- Cut **80% of monthly cloud costs** through service optimisation and right-sizing
-- Built a **Loan Origination System from scratch** at eFishery, increasing team throughput **150%**
-- Led organisation to **ISO 27001 certification** and regulatory licensing
-- Grew an education app to **100K+ users** as co-founder and technical lead (Yaumi, 2017-2019)
-- **Company Recognition Award** at eFishery (Q1 2024)
-- **1st Place** - Google Startup Weekend Jakarta 2016
+- **[telebox](https://github.com/whyrsm/telebox)** — privacy-focused cloud storage that uses Telegram as the backend · [live](https://telebox.kav.co.id)
+- **[MD-Resume](https://github.com/whyrsm/MD-Resume)** — write your resume in Markdown, preview it live in the browser · [live](https://md-resume.kav.co.id)
+- **[kasa](https://github.com/whyrsm/kasa)** — turns Indonesian bank-statement PDFs into structured transaction data, fully local
+- **[Uber Earnings Analytics](https://github.com/whyrsm/chrome-ext-uber-earning-analytic)** — Chrome extension that turns a driver's Uber earnings into trip-level analytics (distance, duration, fare breakdown, totals by type), with JSON/CSV export
+- **[kav-news](https://github.com/whyrsm/kav-news)** — a minimal HN-style news site, rewritten every morning by Claude Opus 4.8 via GitHub Actions
 
 ---
 
-## Get in touch
+## Stack
 
-Open to conversations about product, engineering, or building with AI.
+Depends on the project, but my default full-stack is TypeScript, Bun, Hono, React, and Postgres on Railway. n8n and WAHA for WhatsApp automation. Cursor and Claude Code for the building — these days almost entirely on Claude (Opus 4.8, Sonnet 4.6).
 
-**whyrsm** - I ask why before building the way. I write on [Medium](https://whyrsm.medium.com).
+## Before this
+
+5+ years in fintech leadership across P2P lending, e-wallets, and agritech:
+
+- Launched 3 lending products 0-to-1 at LinkAja (70M+ users)
+- Built lending infrastructure in-house, saving $500K/year vs enterprise licensing
+- Built a Loan Origination System from scratch at eFishery, +150% team throughput
+- Grew an education app to 100K+ users as co-founder and technical lead
+
+---
+
+## Let's talk
+
+Always open to a conversation about product, engineering, or building solo with AI — especially with others doing the same. No pitch, just reach out.
+
+**whyrsm** — I ask *why* before I build. I write on [Medium](https://whyrsm.medium.com).
 
 wahyurismawan@gmail.com
