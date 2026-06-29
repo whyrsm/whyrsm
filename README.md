@@ -6,9 +6,9 @@
 
 ---
 
-I spent 5 years leading product and engineering teams in fintech, then went back to hands-on building when AI coding agents changed the math: one senior builder can now ship what used to take a team. That's what I do now — full-stack production systems, solo.
+I spent 5 years leading product and engineering teams in fintech, then went back to hands-on building when AI coding agents changed the math: one senior builder can now ship what used to take a team. That's what I do now: full-stack production systems, solo.
 
-Since early 2025, through my solo agency [Kav & Co](https://kav.co.id), I've shipped four of them — deployed, used daily, cutting client operational costs by 40%+:
+Since early 2025, through my solo agency [Kav & Co](https://kav.co.id), I've shipped four of them. They're deployed, used daily, and have cut client operational costs by 40%+:
 
 - **Garment Manufacturing ERP** — 80 staff, hundreds of concurrent projects
 - **LMS & Mentoring Platform** — 1,300 users across Indonesia
@@ -21,7 +21,7 @@ AI accelerates the work; the architecture and the technical calls are mine. More
 
 ## Building in public
 
-Where I test ideas outside client work — mostly a privacy- and local-first streak:
+Where I test ideas outside client work, mostly a privacy- and local-first streak:
 
 - **[telebox](https://github.com/whyrsm/telebox)** — privacy-focused cloud storage that uses Telegram as the backend · [live](https://telebox.kav.co.id)
 - **[MD-Resume](https://github.com/whyrsm/MD-Resume)** — write your resume in Markdown, preview it live in the browser · [live](https://md-resume.kav.co.id)
@@ -33,7 +33,7 @@ Where I test ideas outside client work — mostly a privacy- and local-first str
 
 ## Stack
 
-Depends on the project, but my default full-stack is TypeScript, Bun, Hono, React, and Postgres on Railway. n8n and WAHA for WhatsApp automation. Cursor and Claude Code for the building — these days almost entirely on Claude (Opus 4.8, Sonnet 4.6).
+Depends on the project, but my default full-stack is TypeScript, Bun, Hono, React, and Postgres on Railway. n8n and WAHA for WhatsApp automation. Claude Code for the building, almost entirely on Claude (Opus 4.8, Sonnet 4.6).
 
 ## Before this
 
@@ -48,7 +48,7 @@ Depends on the project, but my default full-stack is TypeScript, Bun, Hono, Reac
 
 ## Let's talk
 
-Always open to a conversation about product, engineering, or building solo with AI — especially with others doing the same. No pitch, just reach out.
+Always open to a conversation about product, engineering, or building solo with AI, especially with others doing the same. No pitch, just reach out.
 
 **whyrsm** — I ask *why* before I build. I write on [Medium](https://whyrsm.medium.com).
 
