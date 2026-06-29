@@ -8,7 +8,7 @@
 
 I spent 5 years leading product and engineering teams in fintech, then went back to hands-on building when AI coding agents changed the math: one senior builder can now ship what used to take a team. That's what I do now: full-stack production systems, solo.
 
-Since early 2025, through my solo agency [Kav & Co](https://kav.co.id), I've shipped four of them. They're deployed, used daily, and have cut client operational costs by 40%+:
+Since early 2025, through my solo agency [Kav & Co](https://kav.co.id), I've shipped four of them. They're in production, used daily, and run operations that used to live in scattered spreadsheets and paper:
 
 - **Garment Manufacturing ERP**: 80 staff, hundreds of concurrent projects
 - **LMS & Mentoring Platform**: 1,300 users across Indonesia
